@@ -16,15 +16,15 @@
     },
 "AUTO_NEWS_SENDER": {
       "description": "true or false",
-      "required": false
+      "required": true
     } ,
 "TIKTOK_SEND_JID": {
       "description": "Put the jid channel or group",
-      "required": false
+      "required": true
     } ,
     "AUTO_TIKTOK_SENDER": {
       "description": "true or false",
-      "required": false
+      "required": true
     } 
 },
 
